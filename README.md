@@ -1,4 +1,4 @@
 # Sentiment-Analysis-using-Twitter-API
-Lexicon Based Approach for Sentiment Analysis using Twitter API
+Using the Twitter API, a Lexicon-Based Approach for Sentiment Analysis
 
-Learn how to connect and download tweets through Twitter API. From there I will show you how to clean this data and prepare them for sentiment analysis. There are two most commonly used approaches to sentiment analysis so we will look at both of them. First one is Lexicon based approach where you can use prepared lexicons to analyse data and get sentiment of given text.And second one is Machine Learning Approach.
+Learn how to connect to Twitter API and get tweets. I'll then teach you how to clean the data and prepare it for sentiment analysis. We will look at both of the most often used techniques to sentiment analysis. The first is a lexicon-based technique, in which you may utilise predefined lexicons to analyse data and determine the sentiment of a given text. The second is the Machine Learning Approach.
